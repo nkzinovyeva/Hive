@@ -1,0 +1,5 @@
+Credentials cache: API:737E10AE-CAA8-4DF1-8755-FFFF1803B06C
+        Principal: nzinovye@HIVE.FI
+
+  Issued                Expires               Principal
+Jul  8 20:25:45 2019  Jul  9 06:25:45 2019  krbtgt/HIVE.FI@HIVE.FI
